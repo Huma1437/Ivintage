@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">IVINTAGE</string>
+
+    <string name="ALLinone">Allow I-Vintage Solutions to access following permissions : \n \u0020 \n
+      <b>Media Files</b> \n \u0020 \u2022  read from external storage \n \u0020 \u2022  write to external storage \n\u0020 \n
+      <b>Network/Internet</b> \n \u0020 \u2022  access information about Wi-Fi networks \n \u0020 \n   </string>
+
+
+    <string name="permission_necessary">Necessary Permissions</string>
+    <string name="storage_permission_is_encessary_to_write_event">Without these permissions, the app is unable to successfully complete authentication. Please allow us to access your device so that we can better serve you.</string>
+
+
+    <string name="fname">First Name <font color='red'>*</font></string>
+    <string name="lname">Last Name <font color='red'>*</font></string>
+    <string name="gender">Gender<font color='red'>*</font></string>
+    <string name="dob">Date of Birth <font color='red'>*</font></string>
+    <string name="mob">Mobile No.<font color='red'>*</font></string>
+    <string name="email">Email ID<font color='red'>*</font></string>
+    <string name="Aadharnum">Aadhar Card No.<font color='red'>*</font></string>
+    <string name="adharpic">Upload Aadhar<font color='red'>*</font></string>
+
+
+    <string name="dnum">Door Number <font color='red'>*</font></string>
+    <string name="sname">Street Name<font color='red'>*</font></string>
+    <string name="village">Village/City<font color='red'>*</font></string>
+    <string name="dist">District<font color='red'>*</font></string>
+    <string name="state">State<font color='red'>*</font></string>
+    <string name="pincode">Pincode<font color='red'>*</font></string>
+
+    <string name="fathername">Father\'s Name <font color='red'>*</font></string>
+    <string name="mothername">Mother\'s Name<font color='red'>*</font></string>
+    <string name="fcontact">Father\'s Contact Number<font color='red'>*</font></string>
+
+    <string name="eq">Educational Qualification<font color='red'>*</font></string>
+    <string name="poy">Pass Out Year<font color='red'>*</font></string>
+    <string name="inst">Institution<font color='red'>*</font></string>
+    <string name="marks">% Marks Obtained<font color='red'>*</font></string>
+
+    <string name="comment">Write Your Comment...</string>
+
+
+</resources>
